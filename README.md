@@ -1,5 +1,4 @@
 # OTP Verification with Go
-
 A simple OTP (One-Time Password) verification service using Go, Gin framework, and Twilio.
 
 ## Setup
